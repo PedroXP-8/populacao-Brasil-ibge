@@ -27,3 +27,13 @@ Tecnologias Utilizadas:
 Fonte de Dados:
 
   https://www.ibge.gov.br/
+
+Contato:
+
+  - Linkedin : https://www.linkedin.com/in/pedro-henrique-s-8257923b3/
+
+  - glassdoor : https://www.glassdoor.com.br/member/profile
+
+  - email : phsdias8@hotmail.com
+
+ 
