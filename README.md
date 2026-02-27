@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo extrair, tratar e analisar dados populacionais do Brasil disponibilizados pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-Os dados foram processados utilizando Python, com as bibliotecas Pandas e NumPy, e analisados por meio de visualizações construídas com Matplotlib.
+Os dados foram processados utilizando Python, com as bibliotecas Pandas e NumPy, e analisados por meio de visualizações construídas com Matplotlib dentro do jupyter notebook.
 
 Objetivos:
 
