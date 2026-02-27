@@ -26,7 +26,39 @@ Tecnologias Utilizadas:
 
 Fonte de Dados:
 
-  https://www.ibge.gov.br/
+  os dados foram obtidos por meio do site oficial do:
+
+   https://www.ibge.gov.br/
+
+  base utilizada:
+
+   censo demográfico;
+   estimativas populacionais;
+
+etapas:
+
+  1 - extração de dados:
+    Download das bases do IBGE
+    Importação dos dados em formato Excel
+
+  2 - tratamento de dados:
+    Remoção de valores nulos;
+    Padronização de colunas;
+    Conversão de tipos de dados;
+    Criação de novas métricas;
+    Organização por região e estado;
+
+  3 - Análize exploratória de dados (EDA):
+    comparação entre estados;
+    cidades mais populosas;
+    concentração populacional;
+    estatísticas gerais;
+
+  4 - visualização de dados:
+    visualizações com matplotlib:
+      gráfico de barras;
+      gráfico de linhas;
+      gráfico de pizza;
 
 Contato:
 
